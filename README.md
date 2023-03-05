@@ -1,5 +1,5 @@
 # Deck of Cards
-The Deck of Cards application is a simple command-line tool written in Go that allows you to create and manipulate a deck of playing cards. With this tool, you can create a new deck of cards, shuffle the deck, and draw cards from the deck.
+The Deck of Cards application is a simple command-line tool written in Go that allows you to create and manipulate a deck of playing cards. With this tool, you can create a new deck of cards (shuffled or unshuffled), draw cards from the deck and open an existing deck.
 
 ## Directory Organization
 This directory organization is a common structure used in Go projects that use the MVC (Model-View-Controller) pattern to organize their code.  
